@@ -1,7 +1,10 @@
+<?php
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta
+    charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>FreshBloom Garden Services - Professional Landscaping & Garden Maintenance</title>
   <meta name="description" content="Transform your outdoor space with FreshBloom's professional garden services. Expert landscaping, lawn care, and maintenance in New York.">
